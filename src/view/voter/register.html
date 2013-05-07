@@ -1,0 +1,21 @@
+{% if errors %}
+<ol>
+	{% for error in errors %}
+	<li><font color=red>{{ error }}</font></li>
+	{% endfor %}
+</ol>
+{% endif %}
+
+<form method="post">
+	First and last name:<br />
+	<input name="first_name" value="{{ voter.first_name|default_if_none:"" }}" />
+	<input name="last_name"  value="{{ voter.last_name|default_if_none:"" }}" />
+
+	Address<br />
+	<textarea name="address">{{ voter.address|default_if_none:"" }}</textarea><br /><br />
+
+	Notes<br />
+	<textarea name="notes">{{ voter.notes|default_if_none:"" }}</textarea><br /><br />
+
+	<input type="submit" value="Submit form" />
+</form>

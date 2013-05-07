@@ -1,0 +1,8 @@
+<h1>{{ voter.first_name }} {{ voter.last_name }}</h1>
+<b>Address</b><br />
+{{ voter.address|linebreaksbr }}<br />
+
+<b>Notes</b><br />
+{{ voter.notes|linebreaksbr }}<br />
+
+<a href="/voter/list">Back to the voter list</a>

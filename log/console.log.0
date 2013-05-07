@@ -1,0 +1,951 @@
+2013-05-06 20:54:35.769 [info] <0.6.0> Application lager started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:54:35.781 [info] <0.65.0> Starting Boss in development mode....
+
+2013-05-06 20:54:35.818 [info] <0.65.0> Starting master services on 'evening@Leonardos-MacBook-Air'
+
+2013-05-06 20:54:35.827 [info] <0.6.0> Application tinymq started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:54:35.859 [info] <0.65.0> SSL:[]
+
+2013-05-06 20:54:35.867 [info] <0.6.0> Application boss started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:54:35.867 [info] <0.6.0> Application evening started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:54:35.879 [info] <0.150.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 20:54:41.181 [info] <0.150.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 20:54:41.182 [error] <0.132.0> GET /admin [evening] 404 1ms
+2013-05-06 20:56:47.526 [info] <0.6.0> Application lager started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:56:47.541 [info] <0.65.0> Starting Boss in development mode....
+
+2013-05-06 20:56:47.580 [info] <0.65.0> Starting master services on 'evening@Leonardos-MacBook-Air'
+
+2013-05-06 20:56:47.590 [info] <0.6.0> Application tinymq started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:56:47.621 [info] <0.65.0> SSL:[]
+
+2013-05-06 20:56:47.630 [info] <0.6.0> Application boss started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:56:47.630 [info] <0.6.0> Application evening started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:56:47.641 [info] <0.150.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 20:57:09.438 [info] <0.150.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 20:57:09.441 [error] <0.146.0> GET /admin [evening] 404 3ms
+2013-05-06 20:58:00.728 [info] <0.6.0> Application lager started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:58:00.740 [info] <0.65.0> Starting Boss in development mode....
+
+2013-05-06 20:58:00.780 [info] <0.65.0> Starting master services on 'evening@Leonardos-MacBook-Air'
+
+2013-05-06 20:58:00.790 [info] <0.6.0> Application tinymq started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:58:00.824 [info] <0.65.0> SSL:[]
+
+2013-05-06 20:58:00.837 [info] <0.6.0> Application boss started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:58:00.837 [info] <0.6.0> Application cb_admin started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:58:00.846 [info] <0.150.0> Loading routes from "../cb_admin/priv/cb_admin.routes" ....
+2013-05-06 20:58:00.875 [info] <0.6.0> Application evening started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 20:58:00.880 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 20:58:03.103 [info] <0.147.0> GET /admin [cb_admin] 200 17ms
+2013-05-06 20:58:06.505 [info] <0.147.0> GET /admin/model/model [cb_admin] 200 3ms
+2013-05-06 20:58:08.054 [info] <0.145.0> GET /admin/model/model/greeting [cb_admin] 200 4ms
+2013-05-06 20:58:40.614 [info] <0.146.0> GET /admin/model/create/greeting [cb_admin] 200 6ms
+2013-05-06 20:58:44.728 [info] <0.146.0> POST /admin/model/create/greeting [cb_admin] 302 3ms
+2013-05-06 20:58:44.735 [info] <0.146.0> GET /admin/model/show/greeting-1 [cb_admin] 200 3ms
+2013-05-06 20:58:44.800 [info] <0.145.0> POST /admin/model/watch [cb_admin] 200 12ms
+2013-05-06 20:58:47.234 [info] <0.147.0> GET /admin/model/model/greeting [cb_admin] 200 2ms
+2013-05-06 20:58:47.269 [info] <0.146.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 20:59:14.809 [info] <0.145.0> GET /admin/model/events/1367888324731516 [cb_admin] 200 30001ms
+2013-05-06 20:59:17.284 [info] <0.146.0> GET /admin/model/events/1367888327231722 [cb_admin] 200 30001ms
+2013-05-06 20:59:17.286 [info] <0.142.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 20:59:47.289 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 20:59:47.291 [info] <0.142.0> GET /admin/model/events/1367888327283137 [cb_admin] 200 30000ms
+2013-05-06 21:21:32.916 [info] <0.6.0> Application lager started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:21:32.931 [info] <0.65.0> Starting Boss in development mode....
+
+2013-05-06 21:21:32.977 [info] <0.65.0> Starting master services on 'evening@Leonardos-MacBook-Air'
+
+2013-05-06 21:21:32.991 [info] <0.6.0> Application tinymq started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:21:33.030 [info] <0.65.0> SSL:[]
+
+2013-05-06 21:21:33.043 [info] <0.6.0> Application boss started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:21:33.044 [info] <0.6.0> Application cb_admin started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:21:33.054 [info] <0.150.0> Loading routes from "../cb_admin/priv/cb_admin.routes" ....
+2013-05-06 21:21:33.088 [info] <0.6.0> Application evening started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:21:33.094 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:21:47.357 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 4ms
+2013-05-06 21:22:17.322 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:22:36.677 [info] <0.147.0> GET /doc/voter [evening] 200 164ms
+2013-05-06 21:22:36.708 [error] <0.147.0> GET /doc/stylesheet.css [evening] 404 0ms
+2013-05-06 21:22:36.714 [error] <0.138.0> GET /doc/erlang.png [evening] 404 0ms
+2013-05-06 21:22:47.323 [info] <0.138.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:23:17.326 [info] <0.138.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:23:47.325 [info] <0.138.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:24:17.325 [info] <0.138.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:24:19.479 [error] <0.138.0> GET /admin/model/voter [cb_admin] 404 5ms
+2013-05-06 21:24:25.660 [info] <0.138.0> GET /admin [cb_admin] 200 23ms
+2013-05-06 21:24:27.046 [info] <0.138.0> GET /admin/model/model [cb_admin] 200 3ms
+2013-05-06 21:24:28.188 [info] <0.138.0> GET /admin/model/model/voter [cb_admin] 200 5ms
+2013-05-06 21:24:47.326 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:24:47.633 [info] <0.147.0> GET /admin/model/create/voter [cb_admin] 200 6ms
+2013-05-06 21:25:08.917 [info] <0.147.0> POST /admin/model/create/voter [cb_admin] 302 4ms
+2013-05-06 21:25:08.924 [info] <0.147.0> GET /admin/model/show/voter-1 [cb_admin] 200 4ms
+2013-05-06 21:25:08.969 [info] <0.169.0> POST /admin/model/watch [cb_admin] 200 6ms
+2013-05-06 21:25:17.328 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:25:24.194 [info] <0.147.0> GET /admin/model/model/voter [cb_admin] 200 3ms
+2013-05-06 21:25:24.234 [info] <0.165.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 21:25:25.213 [info] <0.138.0> GET /admin/model/create/voter [cb_admin] 200 2ms
+2013-05-06 21:25:38.214 [info] <0.138.0> POST /admin/model/create/voter [cb_admin] 302 0ms
+2013-05-06 21:25:38.220 [info] <0.138.0> GET /admin/model/show/voter-2 [cb_admin] 200 3ms
+2013-05-06 21:25:38.256 [info] <0.140.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 21:25:38.978 [info] <0.169.0> GET /admin/model/events/1367889908920326 [cb_admin] 200 30001ms
+2013-05-06 21:25:40.189 [info] <0.147.0> GET /admin/model/model/voter [cb_admin] 200 4ms
+2013-05-06 21:25:40.233 [info] <0.138.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 21:25:41.222 [info] <0.176.0> GET /admin/model/create/voter [cb_admin] 200 1ms
+2013-05-06 21:25:47.328 [info] <0.176.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:25:50.532 [info] <0.176.0> POST /admin/model/create/voter [cb_admin] 302 1ms
+2013-05-06 21:25:50.537 [info] <0.176.0> GET /admin/model/show/voter-3 [cb_admin] 200 2ms
+2013-05-06 21:25:50.573 [info] <0.141.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 21:25:54.245 [info] <0.165.0> GET /admin/model/events/1367889924191134 [cb_admin] 200 30000ms
+2013-05-06 21:26:08.267 [info] <0.140.0> GET /admin/model/events/1367889938217278 [cb_admin] 200 30001ms
+2013-05-06 21:26:10.245 [info] <0.138.0> GET /admin/model/events/1367889940185882 [cb_admin] 200 30001ms
+2013-05-06 21:26:17.331 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:26:20.585 [info] <0.141.0> GET /admin/model/events/1367889950535406 [cb_admin] 200 30000ms
+2013-05-06 21:26:20.586 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:26:47.331 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:26:50.592 [info] <0.141.0> GET /admin/model/events/1367889950584881 [cb_admin] 200 30001ms
+2013-05-06 21:26:50.594 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:27:17.331 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:27:20.596 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:27:20.600 [info] <0.141.0> GET /admin/model/events/1367889980591042 [cb_admin] 200 30000ms
+2013-05-06 21:27:47.332 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:27:50.596 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:27:50.607 [info] <0.141.0> GET /admin/model/events/1367890010599513 [cb_admin] 200 30001ms
+2013-05-06 21:28:17.334 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:28:20.596 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:28:20.611 [info] <0.141.0> GET /admin/model/events/1367890040605698 [cb_admin] 200 30001ms
+2013-05-06 21:28:47.337 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:28:50.596 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:28:50.617 [info] <0.141.0> GET /admin/model/events/1367890070610501 [cb_admin] 200 30001ms
+2013-05-06 21:29:17.336 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:29:20.598 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:29:20.622 [info] <0.141.0> GET /admin/model/events/1367890100615156 [cb_admin] 200 30000ms
+2013-05-06 21:29:47.337 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:29:50.598 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:29:50.628 [info] <0.141.0> GET /admin/model/events/1367890130621791 [cb_admin] 200 30001ms
+2013-05-06 21:30:17.338 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:30:20.598 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:30:20.633 [info] <0.141.0> GET /admin/model/events/1367890160626575 [cb_admin] 200 30001ms
+2013-05-06 21:30:47.338 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:30:50.600 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:30:50.643 [info] <0.141.0> GET /admin/model/events/1367890190631730 [cb_admin] 200 30001ms
+2013-05-06 21:31:17.338 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:31:20.600 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:31:20.649 [info] <0.141.0> GET /admin/model/events/1367890220641366 [cb_admin] 200 30001ms
+2013-05-06 21:31:47.340 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:31:50.601 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:31:50.655 [info] <0.141.0> GET /admin/model/events/1367890250648066 [cb_admin] 200 30001ms
+2013-05-06 21:32:17.341 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:32:20.601 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:32:20.710 [info] <0.141.0> GET /admin/model/events/1367890280654060 [cb_admin] 200 30001ms
+2013-05-06 21:32:47.342 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:32:50.603 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:32:50.716 [info] <0.141.0> GET /admin/model/events/1367890310709298 [cb_admin] 200 30001ms
+2013-05-06 21:33:17.346 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:33:20.602 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:33:20.721 [info] <0.141.0> GET /admin/model/events/1367890340715247 [cb_admin] 200 30001ms
+2013-05-06 21:33:47.343 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:33:50.602 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:33:50.728 [info] <0.141.0> GET /admin/model/events/1367890370720018 [cb_admin] 200 30002ms
+2013-05-06 21:34:17.344 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:34:20.603 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:34:20.732 [info] <0.141.0> GET /admin/model/events/1367890400726790 [cb_admin] 200 30001ms
+2013-05-06 21:34:47.346 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:34:50.605 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:34:50.737 [info] <0.141.0> GET /admin/model/events/1367890430731512 [cb_admin] 200 30001ms
+2013-05-06 21:35:17.347 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:35:20.605 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:35:20.741 [info] <0.141.0> GET /admin/model/events/1367890460736239 [cb_admin] 200 30000ms
+2013-05-06 21:35:47.347 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:35:50.606 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:35:50.746 [info] <0.141.0> GET /admin/model/events/1367890490740919 [cb_admin] 200 30001ms
+2013-05-06 21:36:17.349 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:36:20.607 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:36:20.751 [info] <0.141.0> GET /admin/model/events/1367890520745030 [cb_admin] 200 30001ms
+2013-05-06 21:36:47.351 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:36:50.608 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:36:50.758 [info] <0.141.0> GET /admin/model/events/1367890550749863 [cb_admin] 200 30000ms
+2013-05-06 21:37:17.349 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:37:20.608 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:37:20.764 [info] <0.141.0> GET /admin/model/events/1367890580757943 [cb_admin] 200 30002ms
+2013-05-06 21:37:47.350 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:37:50.609 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:37:50.769 [info] <0.141.0> GET /admin/model/events/1367890610762288 [cb_admin] 200 30000ms
+2013-05-06 21:38:17.350 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:38:20.609 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:38:20.778 [info] <0.141.0> GET /admin/model/events/1367890640768512 [cb_admin] 200 30002ms
+2013-05-06 21:38:47.352 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:38:50.612 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:38:50.782 [info] <0.141.0> GET /admin/model/events/1367890670776156 [cb_admin] 200 30001ms
+2013-05-06 21:39:17.353 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:39:20.611 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:39:20.786 [info] <0.141.0> GET /admin/model/events/1367890700781454 [cb_admin] 200 30000ms
+2013-05-06 21:39:47.352 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:39:50.612 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:39:50.791 [info] <0.141.0> GET /admin/model/events/1367890730785856 [cb_admin] 200 30000ms
+2013-05-06 21:40:17.353 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:40:20.612 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:40:20.795 [info] <0.141.0> GET /admin/model/events/1367890760790587 [cb_admin] 200 30001ms
+2013-05-06 21:40:47.354 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:40:50.613 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:40:50.800 [info] <0.141.0> GET /admin/model/events/1367890790794508 [cb_admin] 200 30001ms
+2013-05-06 21:41:17.355 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:41:20.614 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:41:20.805 [info] <0.141.0> GET /admin/model/events/1367890820798903 [cb_admin] 200 30001ms
+2013-05-06 21:41:47.356 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:41:50.614 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:41:50.809 [info] <0.141.0> GET /admin/model/events/1367890850804292 [cb_admin] 200 30000ms
+2013-05-06 21:42:17.356 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:42:20.614 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:42:20.814 [info] <0.141.0> GET /admin/model/events/1367890880808917 [cb_admin] 200 30001ms
+2013-05-06 21:42:47.358 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:42:50.614 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:42:50.819 [info] <0.141.0> GET /admin/model/events/1367890910812670 [cb_admin] 200 30001ms
+2013-05-06 21:43:17.359 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:43:20.615 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:43:20.825 [info] <0.141.0> GET /admin/model/events/1367890940818182 [cb_admin] 200 30000ms
+2013-05-06 21:43:47.362 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:43:50.615 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:43:50.830 [info] <0.141.0> GET /admin/model/events/1367890970824826 [cb_admin] 200 30001ms
+2013-05-06 21:44:17.362 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:44:20.616 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:44:20.834 [info] <0.141.0> GET /admin/model/events/1367891000829165 [cb_admin] 200 30000ms
+2013-05-06 21:44:47.363 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:44:50.616 [info] <0.147.0> POST /admin/model/heartbeat/4 [cb_admin] 200 0ms
+2013-05-06 21:44:50.840 [info] <0.141.0> GET /admin/model/events/1367891030833836 [cb_admin] 200 30001ms
+2013-05-06 21:44:55.285 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:44:55.287 [error] <0.147.0> GET /voter/list [evening] 404 1ms
+2013-05-06 21:45:28.372 [info] <0.6.0> Application lager started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:45:28.384 [info] <0.65.0> Starting Boss in development mode....
+
+2013-05-06 21:45:28.421 [info] <0.65.0> Starting master services on 'evening@Leonardos-MacBook-Air'
+
+2013-05-06 21:45:28.430 [info] <0.6.0> Application tinymq started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:45:28.519 [info] <0.65.0> SSL:[]
+
+2013-05-06 21:45:28.532 [info] <0.6.0> Application boss started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:45:28.532 [info] <0.6.0> Application cb_admin started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:45:28.540 [info] <0.150.0> Loading routes from "../cb_admin/priv/cb_admin.routes" ....
+2013-05-06 21:45:28.570 [info] <0.6.0> Application evening started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:45:28.575 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:45:38.389 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:45:38.392 [error] <0.146.0> GET /voter/list [evening] 404 2ms
+2013-05-06 21:45:41.714 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:45:41.715 [error] <0.146.0> GET /voter/list [evening] 404 0ms
+2013-05-06 21:45:47.369 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 4ms
+2013-05-06 21:45:48.202 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:45:48.203 [error] <0.146.0> GET /voters/list [evening] 404 1ms
+2013-05-06 21:46:17.365 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:46:47.366 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:47:12.350 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:47:12.352 [error] <0.146.0> GET /voters/list [evening] 404 1ms
+2013-05-06 21:47:13.409 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:47:13.410 [error] <0.146.0> GET /voters/list [evening] 404 1ms
+2013-05-06 21:47:17.366 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:47:20.489 [info] <0.146.0> GET /admin [cb_admin] 200 40ms
+2013-05-06 21:47:22.667 [info] <0.146.0> GET /admin/routes/index [cb_admin] 200 3ms
+2013-05-06 21:47:47.367 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:48:17.367 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:48:42.197 [info] <0.146.0> GET /admin/routes/index [cb_admin] 200 1ms
+2013-05-06 21:48:43.175 [info] <0.150.0> Loading routes from "../cb_admin/priv/cb_admin.routes" ....
+2013-05-06 21:48:43.176 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:48:43.177 [info] <0.146.0> GET /admin/routes/reload [cb_admin] 302 2ms
+2013-05-06 21:48:43.181 [info] <0.146.0> GET /admin/routes/index [cb_admin] 200 1ms
+2013-05-06 21:48:44.473 [info] <0.150.0> Loading routes from "../cb_admin/priv/cb_admin.routes" ....
+2013-05-06 21:48:44.474 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:48:44.475 [info] <0.146.0> GET /admin/routes/reload [cb_admin] 302 2ms
+2013-05-06 21:48:44.480 [info] <0.146.0> GET /admin/routes/index [cb_admin] 200 1ms
+2013-05-06 21:48:47.368 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:49:17.368 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:49:34.333 [info] <0.146.0> GET /admin [cb_admin] 200 2ms
+2013-05-06 21:49:35.985 [info] <0.146.0> GET /admin/routes/index [cb_admin] 200 1ms
+2013-05-06 21:49:47.369 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:50:17.369 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:50:47.370 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:51:17.371 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:51:18.866 [info] <0.150.0> Loading routes from "../cb_admin/priv/cb_admin.routes" ....
+2013-05-06 21:51:18.867 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:51:18.869 [info] <0.146.0> GET /admin/routes/reload [cb_admin] 302 2ms
+2013-05-06 21:51:18.874 [info] <0.146.0> GET /admin/routes/index [cb_admin] 200 1ms
+2013-05-06 21:51:19.878 [info] <0.150.0> Loading routes from "../cb_admin/priv/cb_admin.routes" ....
+2013-05-06 21:51:19.879 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:51:19.881 [info] <0.146.0> GET /admin/routes/reload [cb_admin] 302 2ms
+2013-05-06 21:51:19.886 [info] <0.146.0> GET /admin/routes/index [cb_admin] 200 1ms
+2013-05-06 21:51:43.022 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:51:43.026 [error] <0.146.0> {badarg,[{erlang,hd,[[]],[]},{evening_greeting_controller,index,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_greeting_controller.erl"},{line,6}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]},{mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,94}]}]}
+2013-05-06 21:51:43.029 [error] <0.146.0> GET /greeting/index [evening] 500 6ms
+2013-05-06 21:51:47.372 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:52:17.372 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:52:28.518 [info] <0.6.0> Application lager started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:52:28.530 [info] <0.65.0> Starting Boss in development mode....
+
+2013-05-06 21:52:28.570 [info] <0.65.0> Starting master services on 'evening@Leonardos-MacBook-Air'
+
+2013-05-06 21:52:28.579 [info] <0.6.0> Application tinymq started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:52:28.611 [info] <0.65.0> SSL:[]
+
+2013-05-06 21:52:28.620 [info] <0.6.0> Application boss started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:52:28.620 [info] <0.6.0> Application cb_admin started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:52:28.629 [info] <0.150.0> Loading routes from "../cb_admin/priv/cb_admin.routes" ....
+2013-05-06 21:52:28.655 [info] <0.6.0> Application evening started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:52:28.659 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:52:35.205 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:52:35.214 [error] <0.147.0> {badarg,[{erlang,hd,[[]],[]},{evening_greeting_controller,index,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_greeting_controller.erl"},{line,6}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]},{mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,94}]}]}
+2013-05-06 21:52:35.216 [error] <0.147.0> GET /greeting/index [evening] 500 9ms
+2013-05-06 21:52:36.321 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:52:36.329 [error] <0.147.0> {badarg,[{erlang,hd,[[]],[]},{evening_greeting_controller,index,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_greeting_controller.erl"},{line,6}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]},{mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,94}]}]}
+2013-05-06 21:52:36.330 [error] <0.147.0> GET /greeting/index [evening] 500 8ms
+2013-05-06 21:52:47.374 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 1ms
+2013-05-06 21:53:17.380 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:53:47.375 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:54:17.375 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:54:47.376 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:55:17.378 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:55:47.378 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:56:37.870 [info] <0.6.0> Application lager started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:56:37.889 [info] <0.65.0> Starting Boss in development mode....
+
+2013-05-06 21:56:37.947 [info] <0.65.0> Starting master services on 'evening@Leonardos-MacBook-Air'
+
+2013-05-06 21:56:37.961 [info] <0.6.0> Application tinymq started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:56:38.006 [info] <0.65.0> SSL:[]
+
+2013-05-06 21:56:38.019 [info] <0.6.0> Application boss started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:56:38.019 [info] <0.6.0> Application cb_admin started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:56:38.031 [info] <0.150.0> Loading routes from "../cb_admin/priv/cb_admin.routes" ....
+2013-05-06 21:56:38.065 [info] <0.6.0> Application evening started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 21:56:38.072 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:56:41.923 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:56:41.935 [error] <0.147.0> {badarg,[{erlang,hd,[[]],[]},{evening_greeting_controller,index,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_greeting_controller.erl"},{line,6}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]},{mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,94}]}]}
+2013-05-06 21:56:41.936 [error] <0.147.0> GET /greeting/index [evening] 500 12ms
+2013-05-06 21:56:47.382 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 2ms
+2013-05-06 21:57:17.380 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:57:47.382 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:58:05.276 [info] <0.147.0> GET /admin [cb_admin] 200 25ms
+2013-05-06 21:58:06.715 [info] <0.147.0> GET /admin/model/model [cb_admin] 200 4ms
+2013-05-06 21:58:07.743 [info] <0.169.0> GET /admin/model/model/greeting [cb_admin] 200 4ms
+2013-05-06 21:58:08.552 [info] <0.165.0> GET /admin/model/create/greeting [cb_admin] 200 8ms
+2013-05-06 21:58:12.013 [info] <0.165.0> POST /admin/model/create/greeting [cb_admin] 302 4ms
+2013-05-06 21:58:12.020 [info] <0.165.0> GET /admin/model/show/greeting-1 [cb_admin] 200 3ms
+2013-05-06 21:58:12.071 [info] <0.169.0> POST /admin/model/watch [cb_admin] 200 13ms
+2013-05-06 21:58:17.383 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:58:17.754 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:58:17.763 [info] <0.147.0> GET /greeting/index [evening] 200 9ms
+2013-05-06 21:58:23.017 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:58:23.036 [info] <0.147.0> GET /voter/list [evening] 200 18ms
+2013-05-06 21:58:24.903 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:58:24.919 [info] <0.147.0> GET /voter/list [evening] 200 15ms
+2013-05-06 21:58:36.009 [info] <0.147.0> GET /admin [cb_admin] 200 1ms
+2013-05-06 21:58:37.384 [info] <0.147.0> GET /admin/model/model [cb_admin] 200 2ms
+2013-05-06 21:58:38.257 [info] <0.165.0> GET /admin/model/model/voter [cb_admin] 200 2ms
+2013-05-06 21:58:41.553 [info] <0.147.0> GET /admin/model/create/voter [cb_admin] 200 2ms
+2013-05-06 21:58:42.077 [info] <0.169.0> GET /admin/model/events/1367891892017029 [cb_admin] 200 30000ms
+2013-05-06 21:58:47.028 [info] <0.147.0> POST /admin/model/create/voter [cb_admin] 302 0ms
+2013-05-06 21:58:47.035 [info] <0.147.0> GET /admin/model/show/voter-2 [cb_admin] 200 3ms
+2013-05-06 21:58:47.070 [info] <0.177.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 21:58:47.383 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:58:49.160 [info] <0.165.0> GET /admin/model/model/voter [cb_admin] 200 4ms
+2013-05-06 21:58:49.194 [info] <0.186.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 21:58:50.462 [info] <0.147.0> GET /admin/model/create/voter [cb_admin] 200 2ms
+2013-05-06 21:58:58.074 [info] <0.147.0> POST /admin/model/create/voter [cb_admin] 302 0ms
+2013-05-06 21:58:58.080 [info] <0.147.0> GET /admin/model/show/voter-3 [cb_admin] 200 2ms
+2013-05-06 21:58:58.117 [info] <0.170.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 21:58:59.880 [info] <0.165.0> GET /admin/model/model/voter [cb_admin] 200 2ms
+2013-05-06 21:58:59.919 [info] <0.134.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 21:59:01.045 [info] <0.165.0> GET /admin/model/create/voter [cb_admin] 200 2ms
+2013-05-06 21:59:06.812 [info] <0.165.0> POST /admin/model/create/voter [cb_admin] 302 1ms
+2013-05-06 21:59:06.817 [info] <0.165.0> GET /admin/model/show/voter-4 [cb_admin] 200 2ms
+2013-05-06 21:59:06.849 [info] <0.187.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 21:59:08.456 [info] <0.147.0> GET /admin/model/model/voter [cb_admin] 200 3ms
+2013-05-06 21:59:08.496 [info] <0.190.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 21:59:11.533 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 21:59:11.551 [info] <0.165.0> GET /voter/list [evening] 200 18ms
+2013-05-06 21:59:17.087 [info] <0.177.0> GET /admin/model/events/1367891927032396 [cb_admin] 200 30001ms
+2013-05-06 21:59:17.385 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 21:59:19.211 [info] <0.186.0> GET /admin/model/events/1367891929157021 [cb_admin] 200 30000ms
+2013-05-06 21:59:28.132 [info] <0.170.0> GET /admin/model/events/1367891938077797 [cb_admin] 200 30001ms
+2013-05-06 21:59:29.933 [info] <0.134.0> GET /admin/model/events/1367891939878085 [cb_admin] 200 30001ms
+2013-05-06 21:59:36.865 [info] <0.187.0> GET /admin/model/events/1367891946815009 [cb_admin] 200 30001ms
+2013-05-06 21:59:38.512 [info] <0.190.0> GET /admin/model/events/1367891948454005 [cb_admin] 200 30001ms
+2013-05-06 21:59:38.517 [info] <0.190.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 21:59:47.385 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:00:08.515 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:00:08.521 [info] <0.190.0> GET /admin/model/events/1367891948511509 [cb_admin] 200 30001ms
+2013-05-06 22:00:17.386 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:00:38.517 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:00:38.528 [info] <0.190.0> GET /admin/model/events/1367891978520004 [cb_admin] 200 30001ms
+2013-05-06 22:00:47.386 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:01:08.517 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:01:08.534 [info] <0.190.0> GET /admin/model/events/1367892008526200 [cb_admin] 200 30001ms
+2013-05-06 22:01:17.387 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:01:38.519 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:01:38.539 [info] <0.190.0> GET /admin/model/events/1367892038532588 [cb_admin] 200 30001ms
+2013-05-06 22:01:47.388 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:02:08.519 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:02:08.544 [info] <0.190.0> GET /admin/model/events/1367892068538299 [cb_admin] 200 30001ms
+2013-05-06 22:02:17.389 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:02:23.256 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:02:23.304 [info] <0.165.0> GET /voter/list [evening] 200 47ms
+2013-05-06 22:02:24.283 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:02:24.317 [error] <0.165.0> {function_clause,[{erlydtl_filters,linebreaksbr,[undefined,[]],[{file,"src/erlydtl_filters.erl"},{line,965}]},{evening_view_voter_view_html,render_internal,2,[]},{evening_view_voter_view_html,render,2,[]},{boss_web_controller,render_view,6,[{file,"src/boss/boss_web_controller.erl"},{line,998}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,861}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]}]}
+2013-05-06 22:02:24.319 [error] <0.165.0> GET /voter/view/voter-2 [evening] 500 35ms
+2013-05-06 22:02:38.520 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:02:38.548 [info] <0.190.0> GET /admin/model/events/1367892098543269 [cb_admin] 200 30000ms
+2013-05-06 22:02:47.389 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:03:08.521 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:03:08.553 [info] <0.190.0> GET /admin/model/events/1367892128547608 [cb_admin] 200 30001ms
+2013-05-06 22:03:17.394 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:03:38.523 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:03:38.558 [info] <0.190.0> GET /admin/model/events/1367892158551532 [cb_admin] 200 30001ms
+2013-05-06 22:03:47.390 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:03:53.905 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:03:53.928 [info] <0.165.0> GET /voter/view/voter-3 [evening] 200 22ms
+2013-05-06 22:03:56.349 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:03:56.369 [info] <0.165.0> GET /voter/list [evening] 200 20ms
+2013-05-06 22:03:57.313 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:03:57.336 [info] <0.165.0> GET /voter/view/voter-4 [evening] 200 22ms
+2013-05-06 22:03:58.883 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:03:58.905 [info] <0.165.0> GET /voter/list [evening] 200 21ms
+2013-05-06 22:04:08.523 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:04:08.562 [info] <0.190.0> GET /admin/model/events/1367892188556752 [cb_admin] 200 30000ms
+2013-05-06 22:04:17.392 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:04:38.524 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:04:38.567 [info] <0.190.0> GET /admin/model/events/1367892218561722 [cb_admin] 200 30000ms
+2013-05-06 22:04:47.395 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:05:08.525 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:05:08.575 [info] <0.190.0> GET /admin/model/events/1367892248566670 [cb_admin] 200 30001ms
+2013-05-06 22:05:17.398 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:05:38.526 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:05:38.579 [info] <0.190.0> GET /admin/model/events/1367892278573356 [cb_admin] 200 30000ms
+2013-05-06 22:05:47.398 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:06:08.527 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:06:08.585 [info] <0.190.0> GET /admin/model/events/1367892308578530 [cb_admin] 200 30001ms
+2013-05-06 22:06:17.399 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:06:38.526 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:06:38.590 [info] <0.190.0> GET /admin/model/events/1367892338583591 [cb_admin] 200 30000ms
+2013-05-06 22:06:47.401 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:07:08.528 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:07:08.596 [info] <0.190.0> GET /admin/model/events/1367892368589870 [cb_admin] 200 30001ms
+2013-05-06 22:07:17.402 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:07:38.528 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:07:38.601 [info] <0.190.0> GET /admin/model/events/1367892398594361 [cb_admin] 200 30001ms
+2013-05-06 22:07:47.402 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:08:08.528 [info] <0.165.0> POST /admin/model/heartbeat/6 [cb_admin] 200 0ms
+2013-05-06 22:08:08.606 [info] <0.190.0> GET /admin/model/events/1367892428600675 [cb_admin] 200 30000ms
+2013-05-06 22:08:17.403 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:08:36.132 [info] <0.165.0> GET /doc/voter [evening] 200 146ms
+2013-05-06 22:08:36.141 [error] <0.165.0> GET /doc/stylesheet.css [evening] 404 0ms
+2013-05-06 22:08:36.146 [error] <0.165.0> GET /doc/erlang.png [evening] 404 0ms
+2013-05-06 22:08:38.611 [info] <0.190.0> GET /admin/model/events/1367892458605895 [cb_admin] 200 30001ms
+2013-05-06 22:08:47.404 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:09:11.444 [info] <0.165.0> GET /doc/voter [evening] 200 48ms
+2013-05-06 22:09:11.452 [error] <0.165.0> GET /doc/stylesheet.css [evening] 404 0ms
+2013-05-06 22:09:11.458 [error] <0.165.0> GET /doc/erlang.png [evening] 404 0ms
+2013-05-06 22:09:17.406 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:09:47.405 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:10:17.407 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:10:47.408 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:11:17.410 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:11:47.411 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:12:17.411 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:12:47.412 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:13:17.417 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:13:47.414 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:14:17.414 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:14:47.416 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:15:17.416 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:15:47.416 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:16:17.422 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:16:47.422 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:17:17.423 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:17:47.427 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:18:17.428 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:18:47.428 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:19:17.428 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:19:47.429 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:20:17.430 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:20:47.430 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:21:17.431 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:21:47.431 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:22:17.431 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:22:47.435 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:23:17.437 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:23:47.436 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:24:17.436 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:24:47.436 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:25:17.438 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:25:21.761 [info] <0.165.0> GET /admin [cb_admin] 200 2ms
+2013-05-06 22:25:23.048 [info] <0.165.0> GET /admin/model/model [cb_admin] 200 2ms
+2013-05-06 22:25:24.149 [info] <0.165.0> GET /admin/model/model/ward_boss [cb_admin] 200 3ms
+2013-05-06 22:25:25.124 [error] <0.238.0> {undef,[{ward_boss,module_info,[exports],[]},{boss_record_lib,dummy_record,1,[{file,"src/boss_record_lib.erl"},{line,47}]},{cb_admin_model_controller,create,4,[{file,"/Users/leo/code/tonkpils/erlang/cb_admin/src/controller/cb_admin_model_controller.erl"},{line,145}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,536}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:25:25.126 [error] <0.238.0> GET /admin/model/create/ward_boss [cb_admin] 500 8ms
+2013-05-06 22:25:47.438 [info] <0.238.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:25:49.569 [error] <0.238.0> {undef,[{ward_boss,module_info,[exports],[]},{boss_record_lib,dummy_record,1,[{file,"src/boss_record_lib.erl"},{line,47}]},{cb_admin_model_controller,create,4,[{file,"/Users/leo/code/tonkpils/erlang/cb_admin/src/controller/cb_admin_model_controller.erl"},{line,145}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,536}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:25:49.571 [error] <0.238.0> GET /admin/model/create/ward_boss [cb_admin] 500 6ms
+2013-05-06 22:25:50.932 [error] <0.238.0> {undef,[{ward_boss,module_info,[exports],[]},{boss_record_lib,dummy_record,1,[{file,"src/boss_record_lib.erl"},{line,47}]},{cb_admin_model_controller,create,4,[{file,"/Users/leo/code/tonkpils/erlang/cb_admin/src/controller/cb_admin_model_controller.erl"},{line,145}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,536}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:25:50.933 [error] <0.238.0> GET /admin/model/create/ward_boss [cb_admin] 500 5ms
+2013-05-06 22:26:04.611 [info] <0.238.0> GET /doc/ward_boss [evening] 200 36ms
+2013-05-06 22:26:17.066 [info] <0.238.0> GET /doc/ward_boss [evening] 200 74ms
+2013-05-06 22:26:17.074 [error] <0.238.0> GET /doc/stylesheet.css [evening] 404 0ms
+2013-05-06 22:26:17.079 [error] <0.238.0> GET /doc/erlang.png [evening] 404 0ms
+2013-05-06 22:26:17.439 [info] <0.238.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:26:21.758 [info] <0.238.0> GET /admin/model/create/ward_boss [cb_admin] 200 1ms
+2013-05-06 22:26:47.440 [info] <0.238.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:27:17.440 [info] <0.238.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:27:47.441 [info] <0.238.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:28:17.441 [info] <0.238.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:28:57.873 [info] <0.6.0> Application lager started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 22:28:57.887 [info] <0.65.0> Starting Boss in development mode....
+
+2013-05-06 22:28:57.930 [info] <0.65.0> Starting master services on 'evening@Leonardos-MacBook-Air'
+
+2013-05-06 22:28:57.941 [info] <0.6.0> Application tinymq started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 22:28:58.086 [info] <0.65.0> SSL:[]
+
+2013-05-06 22:28:58.094 [info] <0.6.0> Application boss started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 22:28:58.094 [info] <0.6.0> Application cb_admin started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 22:28:58.101 [info] <0.150.0> Loading routes from "../cb_admin/priv/cb_admin.routes" ....
+2013-05-06 22:28:58.130 [info] <0.6.0> Application evening started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 22:28:58.133 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:29:17.470 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 3ms
+2013-05-06 22:29:42.350 [info] <0.147.0> POST /admin/model/create/ward_boss [cb_admin] 302 12ms
+2013-05-06 22:29:42.364 [info] <0.147.0> GET /admin/model/show/ward_boss-1 [cb_admin] 200 12ms
+2013-05-06 22:29:42.429 [info] <0.132.0> POST /admin/model/watch [cb_admin] 200 12ms
+2013-05-06 22:29:45.085 [info] <0.165.0> GET /admin/model/model/ward_boss [cb_admin] 200 5ms
+2013-05-06 22:29:45.124 [info] <0.146.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:29:47.442 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:29:57.035 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:29:57.046 [info] <0.147.0> GET /voter/list [evening] 200 11ms
+2013-05-06 22:29:58.318 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:29:58.332 [info] <0.147.0> GET /user/login [evening] 200 14ms
+2013-05-06 22:30:12.436 [info] <0.132.0> GET /admin/model/events/1367893782354229 [cb_admin] 200 30001ms
+2013-05-06 22:30:15.140 [info] <0.146.0> GET /admin/model/events/1367893785080398 [cb_admin] 200 30001ms
+2013-05-06 22:30:15.143 [info] <0.147.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:30:17.444 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:30:29.417 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:30:29.421 [error] <0.146.0> {function_clause,[{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:30:29.422 [error] <0.146.0> POST /user/login [evening] 500 5ms
+2013-05-06 22:30:45.144 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:30:45.147 [info] <0.147.0> GET /admin/model/events/1367893785138683 [cb_admin] 200 30001ms
+2013-05-06 22:30:47.446 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:31:09.300 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:31:09.341 [error] <0.146.0> {function_clause,[{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:31:09.342 [error] <0.146.0> POST /user/login [evening] 500 41ms
+2013-05-06 22:31:12.636 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:31:12.664 [error] <0.146.0> {function_clause,[{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:31:12.665 [error] <0.146.0> POST /user/login [evening] 500 28ms
+2013-05-06 22:31:15.145 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:31:15.154 [info] <0.147.0> GET /admin/model/events/1367893815146576 [cb_admin] 200 30001ms
+2013-05-06 22:31:17.446 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:31:45.147 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:31:45.160 [info] <0.147.0> GET /admin/model/events/1367893845153079 [cb_admin] 200 30001ms
+2013-05-06 22:31:47.447 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:32:15.148 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:32:15.167 [info] <0.147.0> GET /admin/model/events/1367893875158379 [cb_admin] 200 30001ms
+2013-05-06 22:32:17.449 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:32:45.147 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:32:45.172 [info] <0.147.0> GET /admin/model/events/1367893905166134 [cb_admin] 200 30001ms
+2013-05-06 22:32:47.449 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:33:15.148 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:33:15.176 [info] <0.147.0> GET /admin/model/events/1367893935170839 [cb_admin] 200 30001ms
+2013-05-06 22:33:17.452 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:33:19.678 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:33:19.709 [error] <0.146.0> {function_clause,[{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:33:19.711 [error] <0.146.0> POST /user/login [evening] 500 32ms
+2013-05-06 22:33:32.823 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:33:32.853 [error] <0.146.0> {function_clause,[{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:33:32.854 [error] <0.146.0> POST /user/login [evening] 500 30ms
+2013-05-06 22:33:36.495 [info] <0.146.0> GET /admin/model/create/ward_boss [cb_admin] 200 3ms
+2013-05-06 22:33:45.182 [info] <0.147.0> GET /admin/model/events/1367893965175679 [cb_admin] 200 30001ms
+2013-05-06 22:33:47.450 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:34:01.924 [info] <0.146.0> POST /admin/model/create/ward_boss [cb_admin] 302 1ms
+2013-05-06 22:34:01.932 [info] <0.146.0> GET /admin/model/show/ward_boss-2 [cb_admin] 200 3ms
+2013-05-06 22:34:01.983 [info] <0.139.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:34:11.911 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:34:11.944 [error] <0.165.0> {function_clause,[{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:34:11.946 [error] <0.165.0> POST /user/login [evening] 500 34ms
+2013-05-06 22:34:17.452 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:34:31.999 [info] <0.139.0> GET /admin/model/events/1367894041928895 [cb_admin] 200 30000ms
+2013-05-06 22:34:32.005 [info] <0.139.0> POST /admin/model/heartbeat/2 [cb_admin] 200 0ms
+2013-05-06 22:34:47.451 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:35:02.007 [info] <0.165.0> POST /admin/model/heartbeat/2 [cb_admin] 200 0ms
+2013-05-06 22:35:02.009 [info] <0.139.0> GET /admin/model/events/1367894041998592 [cb_admin] 200 30000ms
+2013-05-06 22:35:17.452 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:35:29.068 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:35:29.105 [error] <0.165.0> {function_clause,[{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:35:29.107 [error] <0.165.0> POST /user/login [evening] 500 36ms
+2013-05-06 22:35:32.009 [info] <0.165.0> POST /admin/model/heartbeat/2 [cb_admin] 200 0ms
+2013-05-06 22:35:32.015 [info] <0.139.0> GET /admin/model/events/1367894072008702 [cb_admin] 200 30001ms
+2013-05-06 22:35:34.321 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:35:34.359 [error] <0.165.0> {function_clause,[{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:35:34.360 [error] <0.165.0> POST /user/login [evening] 500 39ms
+2013-05-06 22:35:47.453 [info] <0.165.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:35:53.077 [info] <0.165.0> GET /admin/model/model/ward_boss [cb_admin] 200 4ms
+2013-05-06 22:35:53.132 [info] <0.172.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:35:55.171 [info] <0.146.0> GET /admin/model/show/ward_boss-2 [cb_admin] 200 3ms
+2013-05-06 22:35:55.205 [info] <0.189.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:35:59.113 [info] <0.165.0> GET /admin/model/model/ward_boss [cb_admin] 200 2ms
+2013-05-06 22:35:59.147 [info] <0.199.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:36:02.023 [info] <0.139.0> GET /admin/model/events/1367894102014301 [cb_admin] 200 30001ms
+2013-05-06 22:36:17.455 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:36:23.146 [info] <0.172.0> GET /admin/model/events/1367894153073887 [cb_admin] 200 30000ms
+2013-05-06 22:36:25.217 [info] <0.189.0> GET /admin/model/events/1367894155167892 [cb_admin] 200 30001ms
+2013-05-06 22:36:29.161 [info] <0.199.0> GET /admin/model/events/1367894159111523 [cb_admin] 200 30001ms
+2013-05-06 22:36:29.167 [info] <0.199.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:36:47.455 [info] <0.146.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:36:59.170 [info] <0.199.0> GET /admin/model/events/1367894159160281 [cb_admin] 200 30000ms
+2013-05-06 22:36:59.172 [info] <0.146.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:37:17.456 [info] <0.199.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:37:29.172 [info] <0.199.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:37:29.176 [info] <0.146.0> GET /admin/model/events/1367894189169745 [cb_admin] 200 30000ms
+2013-05-06 22:37:47.458 [info] <0.199.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:37:59.172 [info] <0.199.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:37:59.181 [info] <0.146.0> GET /admin/model/events/1367894219175542 [cb_admin] 200 30001ms
+2013-05-06 22:38:17.458 [info] <0.199.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:38:29.174 [info] <0.199.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:38:29.186 [info] <0.146.0> GET /admin/model/events/1367894249180879 [cb_admin] 200 30000ms
+2013-05-06 22:38:42.057 [info] <0.6.0> Application lager started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 22:38:42.074 [info] <0.65.0> Starting Boss in development mode....
+
+2013-05-06 22:38:42.122 [info] <0.65.0> Starting master services on 'evening@Leonardos-MacBook-Air'
+
+2013-05-06 22:38:42.135 [info] <0.6.0> Application tinymq started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 22:38:42.176 [info] <0.65.0> SSL:[]
+
+2013-05-06 22:38:42.188 [info] <0.6.0> Application boss started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 22:38:42.189 [info] <0.6.0> Application cb_admin started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 22:38:42.199 [info] <0.150.0> Loading routes from "../cb_admin/priv/cb_admin.routes" ....
+2013-05-06 22:38:42.230 [info] <0.6.0> Application evening started on node 'evening@Leonardos-MacBook-Air'
+2013-05-06 22:38:42.236 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:38:47.488 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 3ms
+2013-05-06 22:38:59.174 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:39:17.459 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:39:29.174 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:39:47.460 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:39:59.175 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:40:17.460 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:40:29.177 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:40:43.958 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:40:44.010 [info] <0.132.0> POST /user/login [evening] 200 51ms
+2013-05-06 22:40:47.461 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:40:55.878 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:40:55.925 [info] <0.132.0> POST /user/login [evening] 200 48ms
+2013-05-06 22:40:59.177 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:41:17.461 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:41:29.177 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:41:47.462 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:41:59.178 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:42:17.463 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:42:29.178 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:42:45.260 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:42:45.307 [info] <0.132.0> POST /user/login [evening] 200 47ms
+2013-05-06 22:42:47.464 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:42:54.289 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:42:54.334 [info] <0.132.0> POST /user/login [evening] 200 44ms
+2013-05-06 22:42:59.179 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:43:08.001 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:43:08.040 [error] <0.132.0> {function_clause,[{proplists,get_value,[limit,{limit,1},all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:43:08.041 [error] <0.132.0> POST /user/login [evening] 500 39ms
+2013-05-06 22:43:17.468 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:43:29.180 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:43:47.465 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:43:59.180 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:44:17.465 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:44:25.753 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:44:25.807 [info] <0.132.0> GET /user/login [evening] 200 54ms
+2013-05-06 22:44:29.180 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:44:31.149 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:44:31.189 [error] <0.132.0> {{case_clause,undefined},[{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]},{mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,94}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+2013-05-06 22:44:31.190 [error] <0.132.0> POST /user/login [evening] 500 40ms
+2013-05-06 22:44:47.466 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:44:59.181 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:45:17.467 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:45:29.181 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:45:47.468 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:45:59.182 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:46:17.469 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:46:29.184 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:46:47.469 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:46:59.183 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:47:17.470 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:47:29.185 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:47:47.470 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:47:48.019 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:47:48.058 [error] <0.132.0> {function_clause,[{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:47:48.060 [error] <0.132.0> POST /user/login [evening] 500 40ms
+2013-05-06 22:47:59.186 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:48:17.472 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:48:29.187 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:48:47.472 [info] <0.132.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:48:59.187 [info] <0.132.0> POST /admin/model/heartbeat/5 [cb_admin] 200 0ms
+2013-05-06 22:49:02.208 [error] <0.132.0> {undef,[{undefined,attributes,[],[]},{cb_admin_model_controller,show,4,[{file,"/Users/leo/code/tonkpils/erlang/cb_admin/src/controller/cb_admin_model_controller.erl"},{line,104}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,536}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]},{mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,94}]}]}
+2013-05-06 22:49:02.210 [error] <0.132.0> GET /admin/model/show/ward_boss-1 [cb_admin] 500 7ms
+2013-05-06 22:49:03.251 [info] <0.132.0> POST /admin/model/watch [cb_admin] 200 7ms
+2013-05-06 22:49:04.814 [error] <0.165.0> {undef,[{undefined,attributes,[],[]},{cb_admin_model_controller,show,4,[{file,"/Users/leo/code/tonkpils/erlang/cb_admin/src/controller/cb_admin_model_controller.erl"},{line,104}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,536}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]},{mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,94}]}]}
+2013-05-06 22:49:04.815 [error] <0.165.0> GET /admin/model/show/ward_boss-1 [cb_admin] 500 7ms
+2013-05-06 22:49:06.135 [info] <0.165.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:49:07.665 [error] <0.199.0> {undef,[{undefined,attributes,[],[]},{cb_admin_model_controller,show,4,[{file,"/Users/leo/code/tonkpils/erlang/cb_admin/src/controller/cb_admin_model_controller.erl"},{line,104}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,536}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]},{mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,94}]}]}
+2013-05-06 22:49:07.666 [error] <0.199.0> GET /admin/model/show/ward_boss-1 [cb_admin] 500 7ms
+2013-05-06 22:49:11.470 [info] <0.199.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:49:17.473 [info] <0.217.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:49:33.261 [info] <0.132.0> GET /admin/model/events/1367894159111523 [cb_admin] 200 30002ms
+2013-05-06 22:49:33.838 [error] <0.217.0> {undef,[{undefined,attributes,[],[]},{cb_admin_model_controller,show,4,[{file,"/Users/leo/code/tonkpils/erlang/cb_admin/src/controller/cb_admin_model_controller.erl"},{line,104}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,536}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]},{mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,94}]}]}
+2013-05-06 22:49:33.839 [error] <0.217.0> GET /admin/model/show/ward_boss-2 [cb_admin] 500 5ms
+2013-05-06 22:49:34.651 [info] <0.217.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:49:35.349 [info] <0.218.0> GET /admin/model/create/ward_boss [cb_admin] 200 8ms
+2013-05-06 22:49:36.148 [info] <0.165.0> GET /admin/model/events/1367894159111523 [cb_admin] 200 30001ms
+2013-05-06 22:49:37.275 [info] <0.218.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:49:39.740 [info] <0.211.0> GET /doc/ward_boss [evening] 200 149ms
+2013-05-06 22:49:39.747 [error] <0.211.0> GET /doc/stylesheet.css [evening] 404 0ms
+2013-05-06 22:49:39.753 [error] <0.211.0> GET /doc/erlang.png [evening] 404 0ms
+2013-05-06 22:49:41.483 [info] <0.199.0> GET /admin/model/events/1367894159111523 [cb_admin] 200 30001ms
+2013-05-06 22:49:47.474 [info] <0.211.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:49:48.519 [info] <0.211.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:49:50.047 [error] <0.137.0> {undef,[{undefined,attributes,[],[]},{cb_admin_model_controller,show,4,[{file,"/Users/leo/code/tonkpils/erlang/cb_admin/src/controller/cb_admin_model_controller.erl"},{line,104}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,536}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]},{mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,94}]}]}
+2013-05-06 22:49:50.048 [error] <0.137.0> GET /admin/model/show/ward_boss-1 [cb_admin] 500 7ms
+2013-05-06 22:50:04.672 [info] <0.217.0> GET /admin/model/events/1367894159111523 [cb_admin] 200 30002ms
+2013-05-06 22:50:07.288 [info] <0.218.0> GET /admin/model/events/1367894159111523 [cb_admin] 200 30001ms
+2013-05-06 22:50:11.183 [info] <0.137.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:50:13.013 [info] <0.135.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:50:15.687 [info] <0.222.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:50:17.474 [info] <0.220.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:50:18.482 [info] <0.220.0> GET /admin/model/create/ward_boss [cb_admin] 200 2ms
+2013-05-06 22:50:18.533 [info] <0.211.0> GET /admin/model/events/1367894159111523 [cb_admin] 200 30001ms
+2013-05-06 22:50:21.841 [info] <0.220.0> POST /admin/model/create/ward_boss [cb_admin] 302 4ms
+2013-05-06 22:50:21.848 [info] <0.220.0> GET /admin/model/show/ward_boss-1 [cb_admin] 200 4ms
+2013-05-06 22:50:21.885 [info] <0.220.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:50:26.563 [info] <0.223.0> GET /admin/model/model/ward_boss [cb_admin] 200 4ms
+2013-05-06 22:50:26.601 [info] <0.216.0> POST /admin/model/watch [cb_admin] 200 1ms
+2013-05-06 22:50:30.339 [info] <0.223.0> GET /admin/model/show/ward_boss-1 [cb_admin] 200 3ms
+2013-05-06 22:50:30.378 [info] <0.139.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:50:31.628 [info] <0.224.0> GET /admin/model/delete/ward_boss-1 [cb_admin] 200 2ms
+2013-05-06 22:50:33.341 [info] <0.224.0> POST /admin/model/delete/ward_boss-1 [cb_admin] 302 0ms
+2013-05-06 22:50:33.346 [info] <0.224.0> GET /admin/model/model/ward_boss [cb_admin] 200 2ms
+2013-05-06 22:50:34.797 [info] <0.219.0> GET /admin/model/create/ward_boss [cb_admin] 200 3ms
+2013-05-06 22:50:41.201 [info] <0.137.0> GET /admin/model/events/1367894159111523 [cb_admin] 200 30001ms
+2013-05-06 22:50:43.027 [info] <0.135.0> GET /admin/model/events/1367894159111523 [cb_admin] 200 30001ms
+2013-05-06 22:50:45.701 [info] <0.222.0> GET /admin/model/events/1367894159111523 [cb_admin] 200 30001ms
+2013-05-06 22:50:47.476 [info] <0.219.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:50:51.899 [info] <0.220.0> GET /admin/model/events/1367895021844396 [cb_admin] 200 30001ms
+2013-05-06 22:50:56.613 [info] <0.216.0> GET /admin/model/events/1367895026558620 [cb_admin] 200 30000ms
+2013-05-06 22:51:00.391 [info] <0.139.0> GET /admin/model/events/1367895030336553 [cb_admin] 200 30001ms
+2013-05-06 22:51:17.478 [info] <0.219.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:51:40.999 [info] <0.219.0> POST /admin/model/create/ward_boss [cb_admin] 302 0ms
+2013-05-06 22:51:41.005 [info] <0.219.0> GET /admin/model/show/ward_boss-2 [cb_admin] 200 2ms
+2013-05-06 22:51:41.069 [info] <0.224.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 22:51:46.344 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:51:46.399 [info] <0.219.0> GET /user/login [evening] 200 54ms
+2013-05-06 22:51:47.479 [info] <0.219.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:51:50.440 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:51:50.483 [error] <0.219.0> {function_clause,[{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 22:51:50.484 [error] <0.219.0> POST /user/login [evening] 500 43ms
+2013-05-06 22:52:11.087 [info] <0.224.0> GET /admin/model/events/1367895101002595 [cb_admin] 200 30000ms
+2013-05-06 22:52:11.090 [info] <0.219.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:52:17.478 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:52:41.089 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:52:41.094 [info] <0.219.0> GET /admin/model/events/1367895101086892 [cb_admin] 200 30000ms
+2013-05-06 22:52:47.479 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:53:11.092 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:53:11.100 [info] <0.219.0> GET /admin/model/events/1367895131093928 [cb_admin] 200 30001ms
+2013-05-06 22:53:17.483 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:53:38.686 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:53:38.729 [info] <0.224.0> POST /user/login [evening] 200 43ms
+2013-05-06 22:53:41.092 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:53:41.108 [info] <0.219.0> GET /admin/model/events/1367895161099007 [cb_admin] 200 30000ms
+2013-05-06 22:53:45.531 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 22:53:45.579 [info] <0.224.0> POST /user/login [evening] 200 47ms
+2013-05-06 22:53:47.480 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:54:11.093 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:54:11.112 [info] <0.219.0> GET /admin/model/events/1367895191107475 [cb_admin] 200 30000ms
+2013-05-06 22:54:17.481 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:54:41.094 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:54:41.120 [info] <0.219.0> GET /admin/model/events/1367895221111903 [cb_admin] 200 30000ms
+2013-05-06 22:54:47.482 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:55:11.095 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:55:11.126 [info] <0.219.0> GET /admin/model/events/1367895251119947 [cb_admin] 200 30001ms
+2013-05-06 22:55:17.482 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:55:41.095 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:55:41.134 [info] <0.219.0> GET /admin/model/events/1367895281125086 [cb_admin] 200 30001ms
+2013-05-06 22:55:47.483 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:56:11.096 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:56:11.139 [info] <0.219.0> GET /admin/model/events/1367895311132793 [cb_admin] 200 30001ms
+2013-05-06 22:56:17.482 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:56:41.097 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:56:41.147 [info] <0.219.0> GET /admin/model/events/1367895341138629 [cb_admin] 200 30000ms
+2013-05-06 22:56:47.483 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:57:11.098 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:57:11.152 [info] <0.219.0> GET /admin/model/events/1367895371146925 [cb_admin] 200 30000ms
+2013-05-06 22:57:17.484 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:57:41.098 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:57:41.162 [info] <0.219.0> GET /admin/model/events/1367895401151627 [cb_admin] 200 30001ms
+2013-05-06 22:57:47.486 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:58:11.099 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:58:11.166 [info] <0.219.0> GET /admin/model/events/1367895431160538 [cb_admin] 200 30001ms
+2013-05-06 22:58:17.487 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:58:41.099 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:58:41.175 [info] <0.219.0> GET /admin/model/events/1367895461165222 [cb_admin] 200 30002ms
+2013-05-06 22:58:47.487 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:59:11.100 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:59:11.179 [info] <0.219.0> GET /admin/model/events/1367895491173095 [cb_admin] 200 30001ms
+2013-05-06 22:59:17.488 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 22:59:41.100 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 22:59:41.186 [info] <0.219.0> GET /admin/model/events/1367895521178825 [cb_admin] 200 30000ms
+2013-05-06 22:59:47.489 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:00:11.102 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 23:00:11.190 [info] <0.219.0> GET /admin/model/events/1367895551185331 [cb_admin] 200 30000ms
+2013-05-06 23:00:17.489 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:00:41.103 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 23:00:41.197 [info] <0.219.0> GET /admin/model/events/1367895581189764 [cb_admin] 200 30000ms
+2013-05-06 23:00:47.490 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:01:11.103 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 23:01:11.202 [info] <0.219.0> GET /admin/model/events/1367895611196930 [cb_admin] 200 30001ms
+2013-05-06 23:01:17.492 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:01:41.103 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 23:01:41.209 [info] <0.219.0> GET /admin/model/events/1367895641201549 [cb_admin] 200 30001ms
+2013-05-06 23:01:47.493 [info] <0.224.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:01:49.737 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:01:49.780 [error] <0.224.0> {function_clause,[{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 23:01:49.782 [error] <0.224.0> POST /user/login [evening] 500 44ms
+2013-05-06 23:02:11.104 [info] <0.224.0> POST /admin/model/heartbeat/12 [cb_admin] 200 0ms
+2013-05-06 23:02:11.214 [info] <0.219.0> GET /admin/model/events/1367895671208620 [cb_admin] 200 30001ms
+2013-05-06 23:02:11.722 [info] <0.224.0> GET /admin/model/model/ward_boss [cb_admin] 200 3ms
+2013-05-06 23:02:11.779 [info] <0.227.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 23:02:14.122 [info] <0.225.0> GET /admin/model/show/ward_boss-2 [cb_admin] 200 2ms
+2013-05-06 23:02:14.160 [info] <0.226.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 23:02:15.133 [info] <0.224.0> GET /admin/model/delete/ward_boss-2 [cb_admin] 200 1ms
+2013-05-06 23:02:17.407 [info] <0.224.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 23:02:17.492 [info] <0.225.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:02:20.569 [info] <0.225.0> GET /admin/model/delete/ward_boss-2 [cb_admin] 200 1ms
+2013-05-06 23:02:21.642 [info] <0.225.0> POST /admin/model/delete/ward_boss-2 [cb_admin] 302 0ms
+2013-05-06 23:02:21.647 [info] <0.225.0> GET /admin/model/model/ward_boss [cb_admin] 200 2ms
+2013-05-06 23:02:29.507 [info] <0.272.0> GET /admin/model/create/ward_boss [cb_admin] 200 2ms
+2013-05-06 23:02:36.742 [info] <0.272.0> POST /admin/model/create/ward_boss [cb_admin] 302 1ms
+2013-05-06 23:02:36.750 [info] <0.272.0> GET /admin/model/show/ward_boss-3 [cb_admin] 200 2ms
+2013-05-06 23:02:36.788 [info] <0.225.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 23:02:40.137 [info] <0.230.0> GET /admin/model/model/ward_boss [cb_admin] 200 3ms
+2013-05-06 23:02:40.174 [info] <0.272.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 23:02:41.222 [info] <0.219.0> GET /admin/model/events/1367895701212860 [cb_admin] 200 30002ms
+2013-05-06 23:02:41.644 [info] <0.229.0> GET /admin/model/model/voter [cb_admin] 200 3ms
+2013-05-06 23:02:41.795 [info] <0.227.0> GET /admin/model/events/1367895731719418 [cb_admin] 200 30001ms
+2013-05-06 23:02:42.716 [info] <0.276.0> GET /admin/model/model/greeting [cb_admin] 200 2ms
+2013-05-06 23:02:44.069 [info] <0.230.0> GET /admin/model/model/ward_boss [cb_admin] 200 3ms
+2013-05-06 23:02:44.104 [info] <0.229.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 23:02:44.172 [info] <0.226.0> GET /admin/model/events/1367895734119932 [cb_admin] 200 30000ms
+2013-05-06 23:02:47.418 [info] <0.224.0> GET /admin/model/events/1367895734119932 [cb_admin] 200 30000ms
+2013-05-06 23:02:47.493 [info] <0.276.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:02:49.515 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:02:49.570 [info] <0.276.0> GET /user/login [evening] 200 54ms
+2013-05-06 23:02:54.052 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:02:54.097 [error] <0.276.0> {function_clause,[{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},{boss_db,find,3,[{file,"src/boss_db.erl"},{line,129}]},{evening_user_controller,login,3,[{file,"/Users/leo/code/tonkpils/erlang/evening/src/controller/evening_user_controller.erl"},{line,9}]},{boss_web_controller,execute_action,5,[{file,"src/boss/boss_web_controller.erl"},{line,836}]},{boss_web_controller,process_dynamic_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,543}]},{boss_web_controller,process_request,5,[{file,"src/boss/boss_web_controller.erl"},{line,532}]},{timer,tc,3,[{file,"timer.erl"},{line,194}]},{boss_web_controller,build_dynamic_response,4,[{file,"src/boss/boss_web_controller.erl"},{line,462}]}]}
+2013-05-06 23:02:54.098 [error] <0.276.0> POST /user/login [evening] 500 45ms
+2013-05-06 23:03:06.799 [info] <0.225.0> GET /admin/model/events/1367895756748056 [cb_admin] 200 30001ms
+2013-05-06 23:03:10.187 [info] <0.272.0> GET /admin/model/events/1367895760133582 [cb_admin] 200 30001ms
+2013-05-06 23:03:14.117 [info] <0.229.0> GET /admin/model/events/1367895764066045 [cb_admin] 200 30001ms
+2013-05-06 23:03:14.121 [info] <0.276.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:03:17.408 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:03:17.466 [info] <0.229.0> GET /user/login [evening] 200 57ms
+2013-05-06 23:03:17.497 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:03:21.254 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:03:21.307 [info] <0.229.0> POST /user/login [evening] 200 52ms
+2013-05-06 23:03:44.121 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:03:44.126 [info] <0.276.0> GET /admin/model/events/1367895764116509 [cb_admin] 200 30000ms
+2013-05-06 23:03:47.496 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:04:14.122 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:04:14.131 [info] <0.276.0> GET /admin/model/events/1367895794125914 [cb_admin] 200 30000ms
+2013-05-06 23:04:17.498 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:04:44.124 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:04:44.138 [info] <0.276.0> GET /admin/model/events/1367895824130928 [cb_admin] 200 30000ms
+2013-05-06 23:04:47.498 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:05:14.122 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:05:14.145 [info] <0.276.0> GET /admin/model/events/1367895854137717 [cb_admin] 200 30001ms
+2013-05-06 23:05:17.499 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:05:44.123 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:05:44.151 [info] <0.276.0> GET /admin/model/events/1367895884144085 [cb_admin] 200 30000ms
+2013-05-06 23:05:47.501 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:06:14.124 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:06:14.156 [info] <0.276.0> GET /admin/model/events/1367895914150969 [cb_admin] 200 30001ms
+2013-05-06 23:06:17.502 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:06:44.124 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:06:44.165 [info] <0.276.0> GET /admin/model/events/1367895944155273 [cb_admin] 200 30001ms
+2013-05-06 23:06:47.502 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:07:14.125 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:07:14.169 [info] <0.276.0> GET /admin/model/events/1367895974163112 [cb_admin] 200 30000ms
+2013-05-06 23:07:17.504 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:07:44.125 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:07:44.176 [info] <0.276.0> GET /admin/model/events/1367896004168795 [cb_admin] 200 30001ms
+2013-05-06 23:07:47.504 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:08:14.127 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:08:14.180 [info] <0.276.0> GET /admin/model/events/1367896034174801 [cb_admin] 200 30000ms
+2013-05-06 23:08:17.505 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:08:44.127 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:08:44.187 [info] <0.276.0> GET /admin/model/events/1367896064179803 [cb_admin] 200 30000ms
+2013-05-06 23:08:47.507 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:09:14.128 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:09:14.191 [info] <0.276.0> GET /admin/model/events/1367896094186669 [cb_admin] 200 30000ms
+2013-05-06 23:09:17.507 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:09:44.129 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:09:44.197 [info] <0.276.0> GET /admin/model/events/1367896124190811 [cb_admin] 200 30000ms
+2013-05-06 23:09:47.509 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:10:14.129 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:10:14.201 [info] <0.276.0> GET /admin/model/events/1367896154196894 [cb_admin] 200 30001ms
+2013-05-06 23:10:17.508 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:10:18.442 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:10:18.496 [info] <0.229.0> POST /user/login [evening] 200 54ms
+2013-05-06 23:10:44.129 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:10:44.211 [info] <0.276.0> GET /admin/model/events/1367896184200606 [cb_admin] 200 30001ms
+2013-05-06 23:10:47.509 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:11:14.130 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:11:14.216 [info] <0.276.0> GET /admin/model/events/1367896214209974 [cb_admin] 200 30001ms
+2013-05-06 23:11:17.510 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:11:44.132 [info] <0.229.0> POST /admin/model/heartbeat/18 [cb_admin] 200 0ms
+2013-05-06 23:11:44.222 [info] <0.276.0> GET /admin/model/events/1367896244214849 [cb_admin] 200 30000ms
+2013-05-06 23:11:47.511 [info] <0.229.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:11:53.532 [info] <0.229.0> GET /admin/model/show/ward_boss-3 [cb_admin] 200 3ms
+2013-05-06 23:11:53.588 [info] <0.278.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 23:11:55.512 [info] <0.275.0> GET /admin/model/delete/ward_boss-3 [cb_admin] 200 1ms
+2013-05-06 23:11:56.841 [info] <0.275.0> POST /admin/model/delete/ward_boss-3 [cb_admin] 302 1ms
+2013-05-06 23:11:56.846 [info] <0.275.0> GET /admin/model/model/ward_boss [cb_admin] 200 2ms
+2013-05-06 23:11:57.891 [info] <0.136.0> GET /admin/model/create/ward_boss [cb_admin] 200 2ms
+2013-05-06 23:12:01.836 [info] <0.136.0> POST /admin/model/create/ward_boss [cb_admin] 302 1ms
+2013-05-06 23:12:01.842 [info] <0.136.0> GET /admin/model/show/ward_boss-4 [cb_admin] 200 2ms
+2013-05-06 23:12:01.878 [info] <0.229.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 23:12:09.296 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:12:09.339 [info] <0.275.0> POST /user/login [evening] 302 43ms
+2013-05-06 23:12:09.343 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:12:09.395 [info] <0.275.0> GET /voter/list [evening] 200 51ms
+2013-05-06 23:12:14.228 [info] <0.276.0> GET /admin/model/events/1367896274221624 [cb_admin] 200 30001ms
+2013-05-06 23:12:17.510 [info] <0.275.0> POST /admin/model/heartbeat/1 [cb_admin] 200 0ms
+2013-05-06 23:12:23.602 [info] <0.278.0> GET /admin/model/events/1367896313528633 [cb_admin] 200 30000ms
+2013-05-06 23:12:27.291 [info] <0.275.0> GET /admin/model/model [cb_admin] 200 1ms
+2013-05-06 23:12:28.209 [info] <0.321.0> GET /admin/model/model/voter [cb_admin] 200 2ms
+2013-05-06 23:12:28.894 [info] <0.136.0> GET /admin/model/create/voter [cb_admin] 200 1ms
+2013-05-06 23:12:31.893 [info] <0.229.0> GET /admin/model/events/1367896321839857 [cb_admin] 200 30001ms
+2013-05-06 23:12:31.894 [info] <0.136.0> POST /admin/model/heartbeat/20 [cb_admin] 200 0ms
+2013-05-06 23:12:43.721 [info] <0.136.0> GET /admin/model/model [cb_admin] 200 1ms
+2013-05-06 23:12:45.259 [info] <0.321.0> GET /admin/model/model/ward_boss [cb_admin] 200 2ms
+2013-05-06 23:12:45.297 [info] <0.136.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 23:12:50.139 [info] <0.275.0> POST /admin/model/create/voter [cb_admin] 302 0ms
+2013-05-06 23:12:50.145 [info] <0.275.0> GET /admin/model/show/voter-5 [cb_admin] 200 3ms
+2013-05-06 23:12:50.198 [info] <0.274.0> POST /admin/model/watch [cb_admin] 200 0ms
+2013-05-06 23:12:51.713 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:12:51.766 [info] <0.321.0> GET /voter/list [evening] 200 53ms
+2013-05-06 23:12:52.887 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:12:52.939 [info] <0.321.0> GET /voter/view/voter-5 [evening] 200 52ms
+2013-05-06 23:12:54.259 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:12:54.312 [info] <0.321.0> GET /voter/list [evening] 200 52ms
+2013-05-06 23:12:57.073 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:12:57.126 [info] <0.321.0> GET /user/login [evening] 200 53ms
+2013-05-06 23:13:01.894 [info] <0.321.0> POST /admin/model/heartbeat/20 [cb_admin] 200 0ms
+2013-05-06 23:13:01.900 [info] <0.229.0> GET /admin/model/events/1367896321891664 [cb_admin] 200 30001ms
+2013-05-06 23:13:02.603 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:13:02.649 [info] <0.321.0> POST /user/login [evening] 302 45ms
+2013-05-06 23:13:02.653 [info] <0.157.0> Loading routes from "/Users/leo/code/tonkpils/erlang/evening/priv/evening.routes" ....
+2013-05-06 23:13:02.699 [info] <0.321.0> GET /voter/list [evening] 200 46ms
+2013-05-06 23:13:15.341 [info] <0.136.0> GET /admin/model/events/1367896365257319 [cb_admin] 200 30000ms
+2013-05-06 23:13:20.219 [info] <0.274.0> GET /admin/model/events/1367896370142238 [cb_admin] 200 30001ms
+2013-05-06 23:13:20.224 [info] <0.321.0> POST /admin/model/heartbeat/22 [cb_admin] 200 0ms
+2013-05-06 23:13:31.895 [info] <0.321.0> POST /admin/model/heartbeat/20 [cb_admin] 200 0ms
+2013-05-06 23:13:31.905 [info] <0.229.0> GET /admin/model/events/1367896351899419 [cb_admin] 200 30001ms
+2013-05-06 23:13:50.222 [info] <0.321.0> POST /admin/model/heartbeat/22 [cb_admin] 200 0ms
+2013-05-06 23:13:50.234 [info] <0.274.0> GET /admin/model/events/1367896370218133 [cb_admin] 200 30001ms
